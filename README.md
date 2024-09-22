@@ -5,4 +5,4 @@
 2. ダウンロードしたリソースパックを、MinecraftのResourcepacksフォルダに入れる。
 3. Minecraftを起動してリソースパックを適用する。
 ## 連絡先
-X：[@spaceriku123](x.com/spaceriku123)
+X：[@spaceriku123](https://x.com/spaceriku123)
